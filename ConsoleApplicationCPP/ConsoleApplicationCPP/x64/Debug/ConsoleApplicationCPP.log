@@ -1,0 +1,5 @@
+﻿  test3.cpp
+C:\Users\YY\Desktop\ConsoleApplicationCPP\ConsoleApplicationCPP\test3.cpp(10,7): warning C4101: “obj1”: 未引用的局部变量
+C:\Users\YY\Desktop\ConsoleApplicationCPP\ConsoleApplicationCPP\test3.cpp(12,10): warning C4101: “obj2”: 未引用的局部变量
+C:\Users\YY\Desktop\ConsoleApplicationCPP\ConsoleApplicationCPP\test3.cpp(13,11): warning C4101: “p2”: 未引用的局部变量
+  ConsoleApplicationCPP.vcxproj -> C:\Users\YY\Desktop\ConsoleApplicationCPP\x64\Debug\ConsoleApplicationCPP.exe
