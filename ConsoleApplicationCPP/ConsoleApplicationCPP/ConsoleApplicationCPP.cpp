@@ -185,38 +185,38 @@ int Student::Total = 10;
 
 //int main()
 //{
-//    std::cout << "Hello World!\n";
+//   std::cout << "Hello World!\n";
 //
-//    Student stdnt;
-//    stdnt.Age = 19;
-//    stdnt.Score = 222;
-//    stdnt.Total = 2382;
+//   Student stdnt;
+//   stdnt.Age = 19;
+//   stdnt.Score = 222;
+//   stdnt.Total = 2382;
 //
-//    Student* student = new Student("bb",29,57);
-//    char* strp = new char[10];
-//    cin >> strp;
-//    student->Name = strp;
-//    student->Age = 11;
-//    student->Score = 88;
-//    student->CCC();
-//    
-//    student->Total = 111;
+//   Student* student = new Student("bb",29,57);
+//   char* strp = new char[10];
+//   cin >> strp;
+//   student->Name = strp;
+//   student->Age = 11;
+//   student->Score = 88;
+//   student->CCC();
 //
-//    student->SetName("xiaoming");
-//    student->SetAge(18);
-//    student->SetScore(88.0);
-//    student->say();
-//    free(strp);
+//   student->Total = 111;
 //
-//    Address* pAddress = new Address();
-//    pAddress->SetAddress("CCCC");
-//    student ->coutAddress(pAddress);
+//   student->SetName("xiaoming");
+//   student->SetAge(18);
+//   student->SetScore(88.0);
+//   student->say();
+//   free(strp);
 //
-//    student->printThis();
+//   Address* pAddress = new Address();
+//   pAddress->SetAddress("CCCC");
+//   student ->coutAddress(pAddress);
 //
-//    delete student;
+//   student->printThis();
 //
-//    return 0;
+//   delete student;
+//
+//   return 0;
 //}
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
