@@ -51,7 +51,7 @@ inline Derived::~Derived() {
     cout << "  ~Derived  "<< endl;
 }
 
- int main() {
-    Derived derived;
- 	return 0;
- }
+ //int main() {
+ //   Derived derived;
+ //	return 0;
+ //}
